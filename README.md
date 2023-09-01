@@ -5,8 +5,8 @@ This is the setup for commandline of Google Apps Script and typescript.
 The npm has to be installed in the environment.
 
 ```bash
-$ node --v
-9.5.1
+$ node -v
+v18.16.0
 $ npm --v
 9.5.1
 ```
